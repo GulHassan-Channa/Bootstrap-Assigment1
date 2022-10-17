@@ -1,0 +1,124 @@
+.nav-link {
+    font-size: 17px;
+    color:#0D6EFD}
+.navbar-brand{
+
+
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+
+}
+.navbar1{
+    margin-left: 45px;
+}
+.sectionon{
+   
+}
+
+#card{
+background-color:#fff;
+box-shadow: rgba(33,33,33,.06) 0 4px 24px 5px;
+border-radius: 8px;
+height: 40vh;
+
+}
+
+#bussiness{ 
+font-family: 'Nunito'sans-serif;
+color:
+RGB(7, 30, 85);
+font-size: 28px;
+margin-top: 35px;
+}
+.card{
+    
+ 
+}
+
+h2{
+
+  
+}
+
+
+.title{
+    font-family: Nunito
+    sans-serif;
+    font-size: 27px;
+    margin-top: 80px;
+  
+}
+
+
+
+.testim-info{
+
+
+}
+p{
+    
+        font-size: 17px;
+        line-height: 26px;
+        font-weight: 400;
+        color: #7c8595;
+        margin-bottom: 20px;
+        font-family: 'Open Sans', sans-serif;
+}
+.john{
+    font-size: 15px;
+line-height: 28px;
+font-weight: 800;
+text-transform: uppercase;
+}
+.Books{
+    color: #e52f37;
+}
+.ourpatner{
+    
+}
+.col-md-2{
+    flex: 0 0 auto;
+    width: 21.667%;
+  background-color: blue;
+}
+.image1{
+    width:  16.6666666667%;
+
+
+}
+.image2{
+    width:  16.6666666667%;
+    height: 40vh;
+}
+.image3{
+ 
+    width:  16.6666666667%;
+    height: 40vh;
+}
+.image4{
+   
+  width:  16.6666666667%;
+  height: 40vh;
+}
+.image5{
+   
+    width:  16.6666666667%;
+    height: 40vh;
+  }
+  .discover{
+    font-size: 28px;
+font-family: Nunito
+sans-serif;
+  }
+  div ul li{
+    list-style: none;
+  }
+  div ul li{
+
+  }
+.tick{
+font-family:'Times New Roman', Times, serif;
+
+font-size: 17px;
+  }
